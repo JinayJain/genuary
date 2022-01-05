@@ -4,5 +4,6 @@ My work for the [Genuary](https://genuary.art) challenge, which is a global chal
 
 ## Samples
 
-![](jan4_fidenza/72.77489.png)
-![](jan2_dithering/output.png)
+<img src="jan4_fidenza/72.77489.png" height="400" width="auto"  />
+
+<img src="jan2_dithering/output.png" width="600"  />
